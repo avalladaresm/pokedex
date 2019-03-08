@@ -1,0 +1,15 @@
+/*To center stuff. Works perfectly*/
+.main-container {
+    display: table;
+    margin: 0 auto;
+}
+
+.h2 {
+    display: table;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.email, .pw {
+    padding-bottom: 25px;
+}
